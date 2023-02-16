@@ -1,1 +1,1 @@
-["efendi_akr","efendiz_d13","aeromods_app","rocksargames"]
+["efendi_akr","efendiz_d13","aeromods_app"]
